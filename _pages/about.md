@@ -1,8 +1,14 @@
 ---
 permalink: /about/
 title: "About"
+layout: single
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Jake Pichel is an experienced controls engineer in the manufacturing industry. A Californian native from Temecula who has lived in several regions throughout the state, he received his Mechanical engineering undergraduate degree from San Jose State University. He moved on to work in Santa Maria for five years as a controls engineer at North American Fire Hose Corporation.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+He is a father of one (so far), loves golf and backpacking. When time allows, he creates indie games and short films, is a casual gamer at night, and once upon a time, a badass drummer in a screamo band.
+
+He is now a business owner and an aspiring software developer, mostly self-taught through Udemy Bootcamp courses. He is actively looking to expand his network to see if his skills can help others achieve their goals. Feel free to contact him via email or Linkedin to chat!
+
+Cheers!
